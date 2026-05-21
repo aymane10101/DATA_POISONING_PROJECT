@@ -1,7 +1,7 @@
 # Fichier de Reproductibilité
 
-**Projet 6 — Data Poisoning Attacks on ML-based IDS**  
-**KHALLOUK Aymane & HAMDAOUA Ahmed — INPT ICCN INE2 — 2024–2025**
+**Projet  — Data Poisoning Attacks on ML-based IDS**  
+**KHALLOUK Aymane & HAMDAOUA Ahmed — INPT ICCN INE2 — 2025–2026**
 
 ---
 
@@ -11,7 +11,7 @@
 
 | Paramètre | Valeur |
 |-----------|--------|
-| OS | Windows 10 / Linux Ubuntu 22.04 |
+| OS | Windows 11 |
 | Python | 3.14.2 |
 | Processeur | CPU (pas de GPU requis) |
 | RAM recommandée | ≥ 8 Go |
