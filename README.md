@@ -1,10 +1,10 @@
-# Projet 6 — Data Poisoning Attacks on ML-based IDS
+# Projet  — Data Poisoning Attacks on ML-based IDS
 
-**Module :** Deep Learning – Cybersécurité (ICCN INE2)  
+**Module :** Deep Learning   
 **Étudiants :** KHALLOUK Aymane & HAMDAOUA Ahmed  
 **Encadrant :** Prof. Tarik Fissaa  
 **École :** INPT — Institut National des Postes et Télécommunications  
-**Année :** 2024–2025
+**Année :** 2025–2026
 
 ---
 
